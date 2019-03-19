@@ -1,4 +1,3 @@
-import codecademylib
 from matplotlib import pyplot as plt
 
 past_years_averages = [82, 84, 83, 86, 74, 84, 90]
